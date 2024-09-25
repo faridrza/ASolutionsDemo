@@ -7,5 +7,7 @@ target 'ASolutionsDemo' do
 
   # Pods for ASolutionsDemo
   pod 'SnapKit', '~> 5.6.0'
+  pod 'SwiftMessages'
+  pod 'TPKeyboardAvoiding'
 
 end
